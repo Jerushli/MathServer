@@ -75,7 +75,7 @@ maths.html
 <style type="text/css">
 body 
 {
-background-color:grey;
+background-color green;
 }
 .edge {
 width: 1440px;
